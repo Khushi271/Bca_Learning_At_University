@@ -1,3 +1,4 @@
 * demo_repo
-my first git repo.
+  
+My first git repo.
 Author:Khushi
